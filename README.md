@@ -9,6 +9,7 @@ Faça backtestes, execute em conta demo e analise os resultados de acordo com o 
 ---
 
 **Doações:**
+
 BTC Address: `3Lwdi17N23nmNd45Md43zhFEwpkR4hsojd`
 
 ETH Address: `0xF02214f7E9462f3642c2A9F72a5dD8b4db6e95c5`
